@@ -212,6 +212,7 @@ frontend/
 
 ### State Management Architecture
 
+
 The application uses React Context API for state management with three main providers:
 
 ```
